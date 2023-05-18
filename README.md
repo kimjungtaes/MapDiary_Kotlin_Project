@@ -2,7 +2,7 @@
 
 ● Team member
 ---------------------------
-![member](https://github.com/kimjungtaes/student_repo/assets/126849371/276eedee-ee67-475a-857c-4636c7598f72)
+![member](https://github.com/kimjungtaes/student_repo/assets/126849371/29a7a653-0484-460b-9700-c61861f3fcaf)
 
 ● Summary
 ---------------------------
