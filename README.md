@@ -2,7 +2,7 @@
 
 ● Team member
 ---------------------------
-![member](https://github.com/KimHuiseon230/HTML202305/assets/126849356/52e75949-e59d-4878-8a55-292f859245c6)
+![member](https://github.com/kimjungtaes/student_repo/assets/126849371/276eedee-ee67-475a-857c-4636c7598f72)
 
 ● Summary
 ---------------------------
