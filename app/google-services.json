@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "492140772730",
+    "firebase_url": "https://kotlinteamproject-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kotlinteamproject",
+    "storage_bucket": "kotlinteamproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492140772730:android:09b10d0e8190c520bc6ac3",
+        "android_client_info": {
+          "package_name": "com.example.mapdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492140772730-720l8mfs1fs9mrndmbn08ra5m57am1of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapdiary",
+            "certificate_hash": "c41eeebe4ac13f2c1c7153e7e490d2288176e3cb"
+          }
+        },
+        {
+          "client_id": "492140772730-9gto7d5mck380ep11gi99tvkotii80uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapdiary",
+            "certificate_hash": "13e3f82299046c3ff9011eded851d7553f364d99"
+          }
+        },
+        {
+          "client_id": "492140772730-sj1qjljrm5qa9k8rm4n5gp94qlm5c21o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP1-AJtdzw8WsNm_1CKybug45yzifi5t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492140772730-sj1qjljrm5qa9k8rm4n5gp94qlm5c21o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

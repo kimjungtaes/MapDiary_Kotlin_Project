@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_one"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/home_b"
+        android:title="커뮤니티"/>
+    <item
+        android:id="@+id/action_two"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/map_b"
+        android:title="지도" />
+    <item
+        android:id="@+id/action_three"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/chat_b"
+        android:title="채팅" />
+    <item
+        android:id="@+id/action_forth"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings_24"
+        android:title="설정" />
+</menu>

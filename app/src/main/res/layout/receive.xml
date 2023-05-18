@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ivUserChat"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/tvChatNickName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/ivUserChat"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/ivUserChat"
+        android:text="@string/chatNickName_string"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/tvReceiveMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_toRightOf="@+id/ivUserChat"
+        android:background="@drawable/bg_edit_background"
+        android:padding="10dp"
+        android:text="@string/receiveMessage_string"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/tvReceiveMessageDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/tvReceiveMessage"
+        android:layout_marginLeft="16dp"
+        android:layout_toRightOf="@+id/tvReceiveMessage"
+        android:text="@string/receiveMessageDate_string" />
+
+
+</RelativeLayout>
